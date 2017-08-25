@@ -1,0 +1,2 @@
+%LANG_title=>Lalala_title
+%LANG_text=>Lalala_text 

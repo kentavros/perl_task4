@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe>
+<recipe name="name" preptime="5min" cooktime="180min">
+       <title>HABRAHABRA               
+       </title>
+
+       <%LANG_title> Title </%LANG_title>
+        <%LANG_text> Text </%LANG_text>
