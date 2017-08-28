@@ -14,7 +14,7 @@ sub parse
 {
   
    my ($self, $html, $langs) =@_;
-   $html =~s/(\%LANG_\w+)/$langs->{$1}/gse;
+   $html =~s/(LANG_\w+)/$langs->{$1}/gse;
    return $html;
 
 }
